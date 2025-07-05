@@ -27,8 +27,8 @@ This project is a simple **Solar Tracking System** designed using Arduino UNO, s
 
 - Arduino UNO
 - Breadboard
-- 2x Servo Motors (SG90)
-- 4x LDRs (Light Dependent Resistors)
+- Servo Motors (SG90)
+- 2x LDRs (Light Dependent Resistors)
 - 4x 10kΩ Resistors
 - Solar Panel
 - Jumper Wires
@@ -47,6 +47,8 @@ This project is a simple **Solar Tracking System** designed using Arduino UNO, s
 
 ---
 
-## 📁 Folder Structure
+## 🙌 Acknowledgement
+
+Made with ❤️ by [Snehasish Saha Akash]
 
 

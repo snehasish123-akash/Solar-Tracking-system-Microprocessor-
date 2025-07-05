@@ -49,6 +49,6 @@ This project is a simple **Solar Tracking System** designed using Arduino UNO, s
 
 ## 🙌 Acknowledgement
 
-Made with ❤️ by [Snehasish Saha Akash]
+Made with ❤️ by Snehasish Saha Akash & Md. Rana Mia
 
 

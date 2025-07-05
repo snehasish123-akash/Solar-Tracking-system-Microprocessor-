@@ -7,7 +7,7 @@ This project is a simple **Solar Tracking System** designed using Arduino UNO, s
 ## 📷 Project Images
 
 ### Front View
-![Front View](./WhatsApp%20Image%202025-07-06%20at%2012.22.27%20AM.jpeg)
+![Front View](Solar Tracking system Front (1).jpeg)
 
 ### Close-up View
 ![Close-up View](./WhatsApp%20Image%202025-07-06%20at%2012.22.27%20AM%20(1).jpeg)
